@@ -1,0 +1,48 @@
+  .gwendolyn-regular {
+  font-family: "Gwendolyn", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gwendolyn-bold {
+  font-family: "Gwendolyn", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+.mate-sc-regular {
+  font-family: "Mate SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  
+  .heading
+  {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: Mate SC;
+  }
+  .note
+  {
+    font-size: 30px;
+    color: black;
+    font-family: Gwendolyn;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    line-height: 3;
+    text-align: center;
+ }
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:10px 10px 10px grey;
+  }
+ 
